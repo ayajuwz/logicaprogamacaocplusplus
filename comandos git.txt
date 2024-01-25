@@ -7,5 +7,6 @@ na barra de endereço apagar tudo e digitar cmd
 após o prompt de comando estar aberto digitar 
 
 git init -> inicia o repositório.
-git add -> adciona todos os arquivos criados 
+git add . -> adciona todos os arquivos criados 
 git commit -m "comentario" -> adciona um comentário para ser inserido no repositório
+git push -> adciona o arquivo ao repositório
